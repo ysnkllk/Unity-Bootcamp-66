@@ -38,7 +38,7 @@ Insidiousouls, şeytanlar arasında geçen güç savaşlarını özgün tasarım
 
 - Souls-like oyun türünü veya yeni şeyler denemeyi seven oyuncular,
 - Steam, Epic Games gibi mağazalardan satın alım yapan PC kullanıcıları,
-- 12+ yaş üstü kullanıcılar
+- 12+ yaş üstü kullanıcılar,
 - Tüm oyun severler
 
 
