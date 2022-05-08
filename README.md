@@ -20,7 +20,7 @@ Insidiousouls
 
 ## Ürün Açıklaması
 
-Insidiousouls, şeytanlar arasında geçen güç savaşlarını özgün tasarımı ve dinamik saldırı mekanikleriyle anlatmaktadır. Indie oyunseverler için özel olarak tasarlanmış bir 2D pixel art oyundur.  
+Insidiousouls, zorlu mücadeleler barındıran souls-like bir indie oyundur.
 
 
 ## Ürün Özellikleri
