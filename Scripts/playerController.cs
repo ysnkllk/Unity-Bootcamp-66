@@ -46,3 +46,18 @@ geciciBoyutlan.x *= -1;
 transform.localScale =  geciciBoyutlan;}
 
 }
+
+// Playerı ittirmek için
+ public IEnumerator Scream (float x, float y, Transform obj)
+    {
+        float timer = 0f;
+
+        while(x > timer)
+        {
+            timer += Time.deltaTime;
+            Vector2 dir = (obj.transform.position - this.transform.position).normalized;
+            rb.AddForce(-dir * y);
+        }
+
+        yield return 0;
+    }
