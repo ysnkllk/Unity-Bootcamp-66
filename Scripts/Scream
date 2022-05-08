@@ -1,0 +1,22 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Scream : MonoBehaviour
+{
+
+    
+    public float y= 100f;
+    public float x= 1f;
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.gameObject.tag == "Player")
+        {
+            StartCoroutine(Player.instance.Scream(x, y, this.transform));
+           
+       }
+    }
+
+  
+}
